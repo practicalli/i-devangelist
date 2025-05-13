@@ -104,7 +104,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: G-7WHCX3FBZ7
+    property: G-J0HMKF793C
   social:
     - icon: material/web
       link: https://practical.li/
