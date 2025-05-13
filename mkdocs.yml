@@ -121,4 +121,21 @@ extra:
 
 # Navigation
 nav:
-  - index.md
+  - Introduction:
+      - index.md
+      - What Is Devangelism: introduction/what-is-devangelism.md
+  - Developer Relations:
+      - developer-relations/index.md
+  - Becoming Devangelist:
+      - becoming-devangelist/index.md
+  - Being Devangelist:
+      - being-devangelist/index.md
+      - Internal Advocacy: internal-advocacy.md
+      - External Advocacy:  external-advocacy.md
+  - Community:
+      - community-community-community/index.md
+  - After Devangelism:
+      - after-devangelism/index.md
+  - Public Speaking:
+      - public-speaking/index.md
+      - Conferences: public-speaking/conferences.md
