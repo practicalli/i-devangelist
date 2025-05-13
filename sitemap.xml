@@ -2,10 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://practical.li/i-devangelist/</loc>
-         <lastmod>2025-05-12</lastmod>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/after-devangelism/</loc>
+         <lastmod>2025-05-13</lastmod>
     </url>
     <url>
          <loc>https://practical.li/i-devangelist/assets/images/social/</loc>
-         <lastmod>2025-05-12</lastmod>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/becoming-devangelist/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/being-devangelist/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/being-devangelist/external-advocacy/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/being-devangelist/internal-advocacy/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/community-community-community/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/developer-relations/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/introduction/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/introduction/what-is-a-devangelist/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/public-speaking/</loc>
+         <lastmod>2025-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://practical.li/i-devangelist/public-speaking/conferences/</loc>
+         <lastmod>2025-05-13</lastmod>
     </url>
 </urlset>
